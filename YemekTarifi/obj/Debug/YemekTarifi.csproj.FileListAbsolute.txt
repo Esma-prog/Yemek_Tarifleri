@@ -1,0 +1,4 @@
+C:\Users\Esma GÜL\Desktop\YemekTarifi-master\YemekTarifi\obj\Debug\YemekTarifi.csproj.AssemblyReference.cache
+C:\Users\Esma GÜL\Desktop\YemekTarifi-master\YemekTarifi\obj\Debug\YemekTarifi.dll.licenses
+D:\butundersler\yemek\YemekTarifi-master\YemekTarifi\obj\Debug\YemekTarifi.csproj.AssemblyReference.cache
+D:\butundersler\yemek\YemekTarifi-master\YemekTarifi\obj\Debug\YemekTarifi.dll.licenses
